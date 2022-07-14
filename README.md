@@ -1,4 +1,4 @@
-https://marvelappi.herokuapp.com/
+http://marvel.dvorvorot.com.ua/
 
 
 # Getting Started with Create React App
